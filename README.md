@@ -6,3 +6,7 @@ This is for reading Chinese characters, if you use other fonts, there should be 
 對製作字體的設計師來說，非常好用，可以用來檢查寫法差異，修改一些字體
 
 It is very useful for designers who make fonts. It can be used to check the differences in writing and modify some fonts
+
+我目前是使用比較常用的字做表格
+
+I am currently using more commonly used words to make tables
