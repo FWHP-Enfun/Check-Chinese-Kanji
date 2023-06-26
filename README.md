@@ -11,11 +11,15 @@ It is very useful for designers who make fonts. It can be used to check the diff
 
 I am currently using more commonly used words to make tables
 
-https://www.unicode.org/charts/#scripts
-
 如果想加更多字，去這個網站看
 
 If you want to add more words, go to this website to see
+
+https://www.unicode.org/charts/#scripts
+
+Unicode的PDF檔，有些字編碼有問題，要記得在英文版維基百科查，複製一些文字
+
+Unicode PDF files, some characters have encoding problems, remember to check on the English version of Wikipedia, and copy some words
 
 一些非Unicode的生僻字，如果不需要，不建議使用
 
